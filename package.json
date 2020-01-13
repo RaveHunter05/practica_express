@@ -1,0 +1,19 @@
+{
+  "name": "video_youtube",
+  "version": "1.0.0",
+  "description": "App de prueba encontrada en youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaveHunter05/practica_express.git"
+  },
+  "author": "RaveHunter05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaveHunter05/practica_express/issues"
+  },
+  "homepage": "https://github.com/RaveHunter05/practica_express#readme"
+}
